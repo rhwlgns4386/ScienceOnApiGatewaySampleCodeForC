@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "owhGIsf01vXygzaAtSF0uiFyOXK/53EeFi/4eO0jOD50mfz5UaM8BPc3fbWK/yodV90Wwm5oipkSYT/t4YWi3g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\USER\\Desktop\\internship\\ScienceOnApiGatewaySampleCodeForC#\\ScienceOnApiGatewaySampleCodeForC#.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USER\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

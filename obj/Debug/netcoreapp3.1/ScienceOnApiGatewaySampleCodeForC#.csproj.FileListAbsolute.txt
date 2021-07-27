@@ -1,0 +1,15 @@
+C:\Users\USER\Desktop\internship\ScienceOnApiGatewaySampleCodeForC#\obj\Debug\netcoreapp3.1\ScienceOnApiGatewaySampleCodeForC#.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\internship\ScienceOnApiGatewaySampleCodeForC#\obj\Debug\netcoreapp3.1\ScienceOnApiGatewaySampleCodeForC#.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\internship\ScienceOnApiGatewaySampleCodeForC#\obj\Debug\netcoreapp3.1\ScienceOnApiGatewaySampleCodeForC#.AssemblyInfo.cs
+C:\Users\USER\Desktop\internship\ScienceOnApiGatewaySampleCodeForC#\obj\Debug\netcoreapp3.1\ScienceOnApiGatewaySampleCodeForC#.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\internship\ScienceOnApiGatewaySampleCodeForC#\bin\Debug\netcoreapp3.1\ScienceOnApiGatewaySampleCodeForC#.exe
+C:\Users\USER\Desktop\internship\ScienceOnApiGatewaySampleCodeForC#\bin\Debug\netcoreapp3.1\ScienceOnApiGatewaySampleCodeForC#.deps.json
+C:\Users\USER\Desktop\internship\ScienceOnApiGatewaySampleCodeForC#\bin\Debug\netcoreapp3.1\ScienceOnApiGatewaySampleCodeForC#.runtimeconfig.json
+C:\Users\USER\Desktop\internship\ScienceOnApiGatewaySampleCodeForC#\bin\Debug\netcoreapp3.1\ScienceOnApiGatewaySampleCodeForC#.runtimeconfig.dev.json
+C:\Users\USER\Desktop\internship\ScienceOnApiGatewaySampleCodeForC#\bin\Debug\netcoreapp3.1\ScienceOnApiGatewaySampleCodeForC#.dll
+C:\Users\USER\Desktop\internship\ScienceOnApiGatewaySampleCodeForC#\bin\Debug\netcoreapp3.1\ScienceOnApiGatewaySampleCodeForC#.pdb
+C:\Users\USER\Desktop\internship\ScienceOnApiGatewaySampleCodeForC#\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\USER\Desktop\internship\ScienceOnApiGatewaySampleCodeForC#\obj\Debug\netcoreapp3.1\ScienceOnApiGatewaySampleCodeForC#.csproj.CopyComplete
+C:\Users\USER\Desktop\internship\ScienceOnApiGatewaySampleCodeForC#\obj\Debug\netcoreapp3.1\ScienceOnApiGatewaySampleCodeForC#.dll
+C:\Users\USER\Desktop\internship\ScienceOnApiGatewaySampleCodeForC#\obj\Debug\netcoreapp3.1\ScienceOnApiGatewaySampleCodeForC#.pdb
+C:\Users\USER\Desktop\internship\ScienceOnApiGatewaySampleCodeForC#\obj\Debug\netcoreapp3.1\ScienceOnApiGatewaySampleCodeForC#.genruntimeconfig.cache
